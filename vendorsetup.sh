@@ -1,0 +1,1 @@
+add_lunch_combo aoscp_p70-userdebug
