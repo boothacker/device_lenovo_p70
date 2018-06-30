@@ -21,6 +21,9 @@ include device/lenovo/p70/configs/board.mk
 
 MTK_K64_SUPPORT := yes
 
+# Odex
+DISABLE_DEXPREOPT := false
+
 # Block based ota
 BLOCK_BASED_OTA := false
 
